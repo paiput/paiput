@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Lucas
 
-<!--
-**paiput/paiput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Junior Web Developer from Argentina
+- 🔭 I’m currently working on my Portfolio
+- 🌱 I’m currently learning about competitive programming
 
-Here are some ideas to get you started:
+## Codeforces stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/dynamic/json?color=lightgrey&label=Rank&query=%24.result%5B0%5D.rank&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dpaiput)
+![](https://img.shields.io/badge/dynamic/json?color=lightgrey&label=Rating&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dpaiput)
+
+![](https://img.shields.io/badge/dynamic/json?color=blue&label=Contests&query=%24.result.length&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.rating%3Fhandle%3Dpaiput)
+![](https://img.shields.io/badge/dynamic/json?color=green&label=Submissions&query=%24.result.length&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.status%3Fhandle%3Dpaiput)
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - 📫 How to reach me: ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->

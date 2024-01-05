@@ -23,8 +23,3 @@
 [![paiput's GitHub stats](https://github-readme-stats.vercel.app/api?username=paiput&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paiput&show_icons=true&locale=en" alt="paiput" /></p> -->
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/lucaspiputto">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>

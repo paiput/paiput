@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Lucas
 
 - 👨‍💻 Full-Stack Web Developer from Argentina
-- 💼 Currently focusing on my studies
+- 💼 Currently focusing on my studies and working in Customer Support
 - 🔭 Using mainly Nextjs and Tailwind CSS for my projects
 
 <!-- ## Codeforces stats -->

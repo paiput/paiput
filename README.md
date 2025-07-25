@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Lucas
 
 - 👨‍💻 Full-Stack Web Developer from Argentina
-- 💼 Currently focusing on my studies and working as freelance Web Developer
-- 🔭 Using mainly Nextjs and Tailwind CSS for my projects
+- 💼 Working on [krenta](https://krenta.com)
+- 📖 Studying Computer Science
 
 <!-- ## Codeforces stats -->
 
@@ -11,14 +11,18 @@
 
 <!-- ![](https://img.shields.io/badge/dynamic/json?color=blue&label=Contests&query=%24.result.length&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.rating%3Fhandle%3Dpaiput) -->
 <!-- ![](https://img.shields.io/badge/dynamic/json?color=green&label=Submissions&query=%24.result.length&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.status%3Fhandle%3Dpaiput) -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
 
-### Languages and tools I use
-[![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,nodejs,express,mysql,mongodb,prisma&perline=5)](https://skillicons.dev)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java&perline=5)](https://skillicons.dev)
+
+### Frameworks and libraries
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,prisma,vite,tailwindcss&theme=dark&perline=7)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,supabase&theme=dark&perline=7)](https://skillicons.dev)
+
+### Other tools and services I use
+[![My Skills](https://skillicons.dev/icons?i=pnpm,vercel,postman,notion&theme=dark&perline=6)](https://skillicons.dev)
 
 [![paiput's GitHub stats](https://github-readme-stats.vercel.app/api?username=paiput&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
